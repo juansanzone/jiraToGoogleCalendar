@@ -97,7 +97,6 @@ class CalendarEventManager
   {
     $dateTime = new Google_Service_Calendar_EventDateTime();
     $dateTime->setDateTime($dateStr);
-
     $this->startDate = $dateTime;
   }
 
@@ -105,7 +104,6 @@ class CalendarEventManager
   {
     $dateTime = new Google_Service_Calendar_EventDateTime();
     $dateTime->setDateTime($dateStr);
-
     $this->endDate = $dateTime;
   }
 
