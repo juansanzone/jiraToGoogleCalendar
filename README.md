@@ -1,8 +1,7 @@
 jiraToGoogleCalendar
 ====================
-
-PHP Jira Web Hook Manager to create a Google Calendar Event for Jira-Issues
-This version Use the Google API V3 OAuth
+PHP Jira Web Hook Manager to create a Google Calendar Event for Jira-Issues /
+(This version Use the Google API V3 OAuth)
 
 
 We need...
