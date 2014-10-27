@@ -1,6 +1,8 @@
 jiraToGoogleCalendar
 ====================
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/juansanzone/jiraToGoogleCalendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)]
+
+(https://gitter.im/juansanzone/jiraToGoogleCalendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PHP Jira Web Hook Manager to create a Google Calendar Event for Jira-Issues /
 (This version Use the Google API V3 OAuth)
 
